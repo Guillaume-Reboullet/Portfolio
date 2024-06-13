@@ -27,8 +27,8 @@ This portfolio highlights my journey as a developer, featuring projects and expe
 ## Skills
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
-- **Frameworks:** React, Symfony, Node.js
-- **Tools:** Git, Docker, Figma
+- **Frameworks:** React, React-native, Symfony, Laravel, Node.js
+- **Tools:** Git, Docker, Illustrator
 
 ## Usage
 
