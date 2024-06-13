@@ -42,38 +42,22 @@ To use this repository in a local environment:
    ```
 
 2. **Install dependencies:**
-
-   For the projects within this portfolio, follow their individual README files to install dependencies. Generally, you'll need Node.js and npm for JavaScript projects, and Composer for PHP projects.
-
-   For example, for a React project:
+   
+   For this repository:
 
    ```bash
    npm install
    ```
 
-   For a Symfony project:
-
-   ```bash
-   composer install
-   ```
-
 3. **Run the project:**
 
-   For a React project:
-
    ```bash
-   npm start
-   ```
-
-   For a Symfony project:
-
-   ```bash
-   symfony server:start
+   npm run dev
    ```
 
 4. **Explore the projects:**
 
-   Follow the instructions in each project's README file to explore their specific functionalities.
+   For the projects within this portfolio, follow their individual README files to install dependencies. Generally, you'll need Node.js and npm for JavaScript projects, and Composer for PHP projects.
 
 ## Contact
 
