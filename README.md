@@ -42,8 +42,6 @@ To use this repository in a local environment:
    ```
 
 2. **Install dependencies:**
-   
-   For this repository:
 
    ```bash
    npm install
